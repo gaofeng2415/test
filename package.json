@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "一个简单的Node.js CLI工具示例",
+  "main": "index.js",
+  "bin": {
+    "test-cli": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "高峯",
+  "license": "MIT"
+}
